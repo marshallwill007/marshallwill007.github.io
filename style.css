@@ -1,7 +1,11 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+
 a {
   text-decoration: none;
   color: White;
   font-weight: bold;
+  font-family: 'Playfair Display', sans-serif;
 }
 
 #navmenu {
@@ -18,8 +22,12 @@ body {
     background-size: cover;
     background-position: top center;
     background-attachment: scroll;
+    font-family: 'Playfair Display', sans-serif;
 }
 
 h1 {
-  color: Red;
+  color: #CD001C;
+  font-family: "Lobster", cursive;
+  font-style: normal;
+  font-size: 3em;
 }
