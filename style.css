@@ -11,3 +11,10 @@ a {
 .navitems {
   margin: 10px;
 }
+
+body {
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Washington_Caps_Alternate.svg/1280px-Washington_Caps_Alternate.svg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+}
