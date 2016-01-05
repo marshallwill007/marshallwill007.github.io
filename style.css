@@ -18,3 +18,7 @@ body {
     background-position: top center;
     background-attachment: scroll;
 }
+
+h1 {
+  color: White;
+}
