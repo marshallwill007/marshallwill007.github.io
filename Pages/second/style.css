@@ -11,3 +11,11 @@ a {
 .navitems {
   margin: 10px;
 }
+
+body {
+    background-image: url("http://images.huffingtonpost.com/2015-12-16-1450300622-8118374-Star_Wars.png");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-attachment: scroll;
+    background-size: auto;
+}
