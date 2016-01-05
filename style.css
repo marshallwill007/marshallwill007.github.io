@@ -1,6 +1,6 @@
 a {
   text-decoration: none;
-  color: DarkSlateGrey;
+  color: White;
   font-weight: bold;
 }
 
@@ -13,12 +13,13 @@ a {
 }
 
 body {
-    background-image: url("http://www.maniacalink.com/wp-content/uploads/2011/11/RTI-2010-CAPITALS.jpg");
+    background-image: url("Background.jpg");
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: top center;
     background-attachment: scroll;
 }
 
 h1 {
-  color: White;
+  color: Red;
 }
