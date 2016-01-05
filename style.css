@@ -3,3 +3,7 @@ a {
   color: DarkSlateGrey;
   font-weight: bold;
 }
+
+#navmenu {
+  list-style: none
+}
