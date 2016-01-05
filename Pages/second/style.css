@@ -1,6 +1,6 @@
 a {
   text-decoration: none;
-  color: DarkSlateGrey;
+  color: SlateGrey;
   font-weight: bold;
 }
 
@@ -17,5 +17,10 @@ body {
     background-repeat: no-repeat;
     background-position: top center;
     background-attachment: scroll;
-    background-size: auto;
+    background-size: cover;
+    background-color: Black;
+}
+
+h1{
+  color: White;
 }
