@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display:400,700,900);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic);
+
+a {
+  text-decoration: none;
+  color: White;
+  font-weight: bolder;
+  font-family: 'Playfair Display', sans-serif;
+  background-color: Grey;
+  border-style: inset;
+}
+
+#navmenu {
+  list-style: none;
+}
+
+.navitems {
+  margin: 10px;
+}
+
+body{
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/d/d0/Jabberwocky.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  background-attachment: scroll;
+}
+
+h2{
+  font-weight: normal;
+  font-size: 1em;
+  color: White;
+  background-color: Grey;
+  font-family: "Lora", serif;
+
+}
+
+h1{
+  font-style: italic;
+  color: White;
+  background-color: Black;
+}
