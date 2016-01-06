@@ -33,7 +33,7 @@ h2{
   font-weight: normal;
   font-size: 1em;
   color: #FF5757;
-  background-color: Grey;
+  background-color: #828181;
   font-family: "Lora", serif;
 
 }
@@ -48,7 +48,7 @@ h3{
   font-weight: normal;
   font-size: 1em;
   color: #FF2B2B;
-  background-color: Grey;
+  background-color: #616161;
   font-family: 'Anton', sans-serif;
 
 }
@@ -57,7 +57,7 @@ h4{
   font-weight: normal;
   font-size: 1em;
   color: #F00000;
-  background-color: Grey;
+  background-color: #444242;
   font-family: 'Poiret One', cursive;
 
 }
@@ -66,7 +66,7 @@ h5{
   font-weight: normal;
   font-size: 1em;
   color: #DA0000;
-  background-color: Grey;
+  background-color: #272525;
   font-family: 'Passion One', cursive;
 
 }
