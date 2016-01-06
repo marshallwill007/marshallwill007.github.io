@@ -32,7 +32,7 @@ body{
 h2{
   font-weight: normal;
   font-size: 1em;
-  color: White;
+  color: #FF5757;
   background-color: Grey;
   font-family: "Lora", serif;
 
@@ -47,7 +47,7 @@ h1{
 h3{
   font-weight: normal;
   font-size: 1em;
-  color: White;
+  color: #FF2B2B;
   background-color: Grey;
   font-family: 'Anton', sans-serif;
 
@@ -56,7 +56,7 @@ h3{
 h4{
   font-weight: normal;
   font-size: 1em;
-  color: White;
+  color: #F00000;
   background-color: Grey;
   font-family: 'Poiret One', cursive;
 
@@ -65,7 +65,7 @@ h4{
 h5{
   font-weight: normal;
   font-size: 1em;
-  color: White;
+  color: #DA0000;
   background-color: Grey;
   font-family: 'Passion One', cursive;
 
