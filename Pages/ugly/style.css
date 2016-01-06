@@ -46,6 +46,8 @@ h1{
   font-style: italic;
   color: White;
   background-color: Black;
+  border-style: outset;
+  border-color: #DA0000;
 }
 
 h3{
