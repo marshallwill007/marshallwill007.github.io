@@ -32,5 +32,8 @@ h1 {
   color: #CD001C;
   font-family: "Lobster", cursive;
   font-style: normal;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: White;
   font-size: 3em;
 }
