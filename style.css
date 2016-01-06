@@ -10,10 +10,13 @@ a {
 
 #navmenu {
   list-style: none;
+  background-color: #CD001C;
+  border-style: inset;
+  width: 150px;
 }
 
 .navitems {
-  margin: 10px;
+  margin: 8px;
 }
 
 body {

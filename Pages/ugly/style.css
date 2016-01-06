@@ -15,6 +15,10 @@ a {
 
 #navmenu {
   list-style: none;
+  background-color: #272525;
+  border-style: outset;
+  border-color: #DA0000;
+  width: 175px;
 }
 
 .navitems {
