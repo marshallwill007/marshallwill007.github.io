@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,900,600);
+
+
+#columnwrapper{
+  width: 100%;
+}
+
+.column{
+  float: left;
+  width: 40%;
+}
+
+section{
+  background-color: Black;
+  border-style: outset;
+  padding: 15px;
+  margin: 15px;
+
+}
+
+h1{
+  width: 80%;
+  font-family: 'Raleway', sans-serif;
+  background-color: Black;
+  text-align: center;
+  border-style: ridge;
+}
+
+h2{
+  width: 80%;
+  font-family: 'Raleway', sans-serif;
+  background-color: Black;
+  text-align: center;
+  border-style: ridge;
+}
