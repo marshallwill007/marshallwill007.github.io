@@ -6,12 +6,20 @@ a{
   color: white;
   font-family: "Fjalla One", sans-serif;
   font-size: 1.25em;
+
 }
 
 #navmenu {
   list-style: none;
   width: 100%;
   margin-top: 25px;
+}
+
+.navitems a:hover{
+  background-color: #CF8E3E;
+  color: white;
+  padding: 8.5px;
+  border-bottom: solid #962B2B 4px;
 }
 
 .navitems {
@@ -27,7 +35,7 @@ a{
 
 .nav{
   float: left;
-  width: 200px;
+  width: 250px;
   background-color: #962B2B;
   padding-top: 25px;
   padding-bottom: 125px;
@@ -36,7 +44,7 @@ a{
 
 #homepage{
   margin-top: 25px;
-  margin-left: 25px;
+  margin-left: 50px;
 }
 
 #columnwrapper{
@@ -77,7 +85,7 @@ h2{
   color: white;
   font-size: 2em;
   text-decoration: underline;
-  background-color: rgba(0, 0, 0, 0.7);;
+  background-color: rgba(0, 0, 0, 0.7);
   text-align: center;
   padding: 1%;
 }
