@@ -22,6 +22,7 @@ a{
   text-align: center;
   border-bottom-style: solid;
   border-bottom-color: #CF8E3E;
+  background-color: rgba(0, 0, 0 , 0.2);;
 }
 
 .nav{
@@ -47,7 +48,7 @@ a{
 .column{
   float: left;
   width: 64.5%;
-  padding: 50px;
+  padding: 30px;
   background-color: rgba(150, 43, 43, 0.7);;
   color: black;
   margin-bottom: 50px;
@@ -63,7 +64,7 @@ h1{
   text-align: center;
   margin: auto;
   background-color: #962B2B;
-  margin-bottom: 25px;
+  margin-bottom: 30px;
   margin-left: 40%;
   padding: 25px;
   color: white;
