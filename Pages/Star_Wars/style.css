@@ -1,0 +1,104 @@
+h1{
+  font-size: 1em;
+}
+
+a{
+  color: yellow;
+}
+
+a:hover{
+  color: yellow;
+}
+
+.nav-pills > li > a:hover{
+  color: yellow;
+  font-size: 1.05em;
+  font-weight: bold;
+  background-color: black;
+}
+
+.breadcrumb{
+  color:black;
+  background-color: rgba(79, 79, 79, 0.7);
+}
+
+body{
+  background-image: url("star.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top center;
+  background-attachment: scroll;
+}
+
+.tableofcontents{
+
+}
+
+.maincontent{
+  background-color: rgba(79, 79, 79 , 0.7);
+  margin-bottom: 50px;
+}
+
+.tb_left{
+  background-color: rgba(79, 79, 79 , 0.7);
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.bttnright{
+  float:left;
+  margin-right: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.bttnleft{
+  float:right;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  margin-top: 5px;
+}
+
+.tb_right{
+  background-color: rgba(79, 79, 79 , 0.7);
+  padding: 15px;
+  margin-top: 15px;
+}
+
+.null{
+  color: rgba(79, 79, 79 , 0.0);
+}
+
+.main_left{
+  
+  margin-top: 30px;
+  padding-top: 15px;
+  margin-bottom: 30px;
+  margin-left: 30px;
+}
+
+.tagline{
+  background-color: rgba(79, 79, 79 , 0.5);
+}
+
+.main_right{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 30px;
+}
+
+.list-group{
+  padding-top: 15px;
+}
+
+.list-group-item.active {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+
+a.list-group-item.active:hover{
+  background-color: black;
+  color: white;
+  border-color: yellow;
+}
