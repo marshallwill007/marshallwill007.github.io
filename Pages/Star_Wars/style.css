@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Play:400,700);
+
 h1{
   font-size: 1em;
 }
@@ -12,7 +14,7 @@ a:hover{
 
 .nav-pills > li > a:hover{
   color: yellow;
-  font-size: 1.05em;
+  font-size: 1.1em;
   font-weight: bold;
   background-color: black;
 }
@@ -28,6 +30,7 @@ body{
   background-size: cover;
   background-position: top center;
   background-attachment: scroll;
+  font-family: 'Play', sans-serif;
 }
 
 .tableofcontents{
@@ -40,7 +43,7 @@ body{
 }
 
 .tb_left{
-  background-color: rgba(79, 79, 79 , 0.7);
+  background-color: rgba(255, 255, 255 , 0.4);
   padding: 15px;
   margin-top: 15px;
 }
@@ -60,7 +63,7 @@ body{
 }
 
 .tb_right{
-  background-color: rgba(79, 79, 79 , 0.7);
+  background-color: rgba(255, 255, 255 , 0.4);
   padding: 15px;
   margin-top: 15px;
 }
@@ -70,7 +73,7 @@ body{
 }
 
 .main_left{
-  
+
   margin-top: 30px;
   padding-top: 15px;
   margin-bottom: 30px;
@@ -92,13 +95,18 @@ body{
 }
 
 .list-group-item.active {
-  background-color: black;
-  color: white;
-  border-color: white;
+  background-color: yellow;
+  color: black;
+  border-color: yellow;
 }
 
 a.list-group-item.active:hover{
   background-color: black;
   color: white;
   border-color: yellow;
+}
+
+.tbitems{
+  font-weight: bold;
+  font-size: 1.05
 }
